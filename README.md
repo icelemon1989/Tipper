@@ -16,3 +16,5 @@ Completed:
 * [x] Additional: Also remembering the tip percentage across app restarts.
 
 ![Video Walkthrough](walkThrough.gif)
+
+GIF created with [LiceCap](http://www.cockos.com/licecap/).
